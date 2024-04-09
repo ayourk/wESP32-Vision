@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "wESP32-Vision")(type "KiCad")(uri "${KIPRJMOD}/wESP32-Vision.pretty")(options "")(descr ""))
+)
